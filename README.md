@@ -10,3 +10,6 @@ Experimental collection of SIMD (AVX2/AVX-512) wrappers tailored for tick-to-tra
 
 ## Usage
 Include headers in your HFT engine. **Not production ready.**
+
+## Update (v0.2)
+- Fixed memory alignment issues in AVX-512 routines.
